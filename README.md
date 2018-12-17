@@ -1,0 +1,2 @@
+# AngularNote
+Note about Angular.
